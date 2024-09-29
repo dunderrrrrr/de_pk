@@ -7,8 +7,12 @@ Scale is pretty bad. Lightning is pretty bad. Overall map design, 10/10, would p
 ![](https://i.imgur.com/6wbBDlZ.png)
 
 ![](https://i.imgur.com/2HPIJKc.png)
+
+![](https://i.imgur.com/SYeaNEW.png)
    
 
 # Contribute
 
 Open ``vmap`` in [Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor_(Source_2)), install through Steam.
+
+Commit your changes as new file (``de_cs2_rosell.vmap``) to not overwrite someone elses current work.
