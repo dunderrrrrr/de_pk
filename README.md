@@ -18,4 +18,9 @@ Scale is pretty bad. Lightning is pretty bad. Overall map design, 10/10, would p
 
 Open ``vmap`` in [Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor_(Source_2)), install through Steam.
 
-Commit your changes as new file (``de_cs2_rosell.vmap``) to not overwrite someone elses current work.
+Commit your changes as new file with a timestamp, ``de_pk_241002_22_32.vmap``, to not overwrite someone elses current work. Also make a copy and replace ``de_pk.vmap``.
+
+# Publish on workshop/server
+Publish the map through Workshop Manager in Hammer. Make sure to build the map first. When publishing, select visibility hidden. 
+
+When published, change map visibility to "unlisted" in Steam, if you dont do this, the server will not be able to download the latest version of the map.
