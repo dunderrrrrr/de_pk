@@ -10,13 +10,17 @@ This is a work in progress, probably always will be.
 
 Scale is pretty bad. Lightning is pretty bad. Overall map design, 10/10, would play. See you in Valve Major Championships, baby.
 
-![](https://i.imgur.com/6wbBDlZ.png)
+# Images
 
-![](https://i.imgur.com/2HPIJKc.png)
+Updated 2024-10-04 (lighting is not final)
 
-![](https://i.imgur.com/SYeaNEW.png)
+![](https://imgur.com/8JQCTlm)
 
-![Entrance](https://github.com/user-attachments/assets/fe9f6b87-38dd-4e38-bb58-592cdee2e011)
+![](https://imgur.com/WiBpMpD)
+
+![](https://imgur.com/pGwIeQW)
+
+![](https://imgur.com/VtQa1ur)
 
 # Contribute
 
