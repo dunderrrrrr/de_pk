@@ -14,13 +14,13 @@ Scale is pretty bad. Lightning is pretty bad. Overall map design, 10/10, would p
 
 Updated 2024-10-04 (lighting is not final)
 
-![](https://imgur.com/8JQCTlm)
+![](https://i.imgur.com/8JQCTlm.jpeg)
 
-![](https://imgur.com/WiBpMpD)
+![](https://i.imgur.com/WiBpMpD.jpeg)
 
-![](https://imgur.com/pGwIeQW)
+![](https://i.imgur.com/pGwIeQW.jpeg)
 
-![](https://imgur.com/VtQa1ur)
+![](https://i.imgur.com/VtQa1ur.jpeg)
 
 # Contribute
 
