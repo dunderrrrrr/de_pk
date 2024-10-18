@@ -8,7 +8,7 @@ Rcon host cmd: `host_workshop_map 3341317368`
 # Description 
 This is a work in progress, probably always will be.  
 
-Scale is pretty bad. Lightning is pretty bad. Overall map design, 10/10, would play. See you in Valve Major Championships, baby.
+Overall map design, 10/10, would play. See you in Valve Major Championships, baby.
 
 # Images
 
