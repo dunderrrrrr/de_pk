@@ -12,11 +12,9 @@ Overall map design, 10/10, would play. See you in Valve Major Championships, bab
 
 # Images and videos
 
-22 october: https://youtu.be/LGja_JCHUeQ
-
-30 september: https://youtu.be/YLdUS2Dbz6c
-
-Updated 2024-10-18 (lighting is not final)
+- 18 november: https://youtu.be/QGlm3sUvxVo
+- 22 october: https://youtu.be/LGja_JCHUeQ
+- 30 september: https://youtu.be/YLdUS2Dbz6c
 
 ![](https://i.imgur.com/Sk0iJkD.jpeg)
 
